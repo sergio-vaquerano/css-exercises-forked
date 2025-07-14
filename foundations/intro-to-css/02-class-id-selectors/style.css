@@ -1,0 +1,17 @@
+.pink {
+    background-color: rgb(255, 204, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#big-letter {
+    color:#0000ff;
+    font-size: 36px;
+}
+.hello-sergio{
+    font-size: 24px;
+}
+#green{
+    background-color: hsl(147, 94%, 48%);
+    font-weight: bold;
+}
